@@ -1,4 +1,3 @@
-Here's a witty and slightly dark README for Durva Dongre, with emojis:
 
 # 🐍 Durva Dongre: Code Whisperer & Swiftie Extraordinaire 🎸
 
