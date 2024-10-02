@@ -1,5 +1,5 @@
 
-# 🐍 Durva Dongre: Code Whisperer & Swiftie Extraordinaire 🎸
+# 🐍 Durva Dongre Code Whisperer & Swiftie Extraordinaire 🎸
 
 ## Who's This Girl? 🤔
 
