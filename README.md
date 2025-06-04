@@ -3,7 +3,7 @@
 
 ## Who's This Girl? 🤔
 
-Welcome to the digital lair of Durva Dongre, where code meets pop culture and novels collide with blockchain. Brace yourself for a journey through the mind of a girl who's equal parts nerd and Taylor Swift enthusiast. (Yes, that combination exists. No, it's not an oxymoron.)
+Welcome to the digital lair of Durva Dongre, where code meets pop culture and novels collide with webdevelopment. Brace yourself for a journey through the mind of a girl who's equal parts nerd and Taylor Swift enthusiast. (Yes, that combination exists. No, it's not an oxymoron.)
 
 ## Tech Stack of Doom ☠️
 
