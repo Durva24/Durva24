@@ -36,8 +36,15 @@ Durva is currently accepting applications for debugging partners and karaoke tea
 
 Swipe right to collaborate, swipe left to be forever debugged. 💔👩‍💻
 
-## My Spotify's Soundtrack <3
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31uw53f5454epgmtenldpssnng4a&width=1000)
 
-## Github Streak 
-![GitHub Streak](https://streak-stats.demolab.com?user=omsandippatil&theme=merko&hide_border=true&card_width=950)
+## 🎵 Now Playing on Spotify
+
+[![Spotify](https://novatorem-<your-github-username>.vercel.app/api/spotify)](https://open.spotify.com/user/<your-spotify-username>)
+
+## 🧠 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=<your-github-username>&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Babe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=dracula)](https://github.com/<your-github-username>)
+
+
