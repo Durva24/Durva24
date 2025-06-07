@@ -35,3 +35,9 @@ Remember: She's just a girl, standing in front of a computer, asking it to compi
 Durva is currently accepting applications for debugging partners and karaoke teammates. Proficiency in Java required, ability to hit high notes in "All Too Well" preferred.
 
 Swipe right to collaborate, swipe left to be forever debugged. 💔👩‍💻
+
+## My Spotify's Soundtrack <3
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31uw53f5454epgmtenldpssnng4a&width=1000)
+
+## Github Streak 
+![GitHub Streak](https://streak-stats.demolab.com?user=omsandippatil&theme=merko&hide_border=true&card_width=950)
