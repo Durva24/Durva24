@@ -45,6 +45,6 @@ Swipe right to collaborate, swipe left to be forever debugged. 💔👩‍💻
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=<your-github-username>&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Durva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=dracula)](https://github.com/<your-Durva24>)
+[![Durva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durva24&show_icons=true&theme=dracula)](https://github.com/Durva24)
 
 
