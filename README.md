@@ -39,7 +39,7 @@ Swipe right to collaborate, swipe left to be forever debugged. 💔👩‍💻
 
 ## 🎵 Now Playing on Spotify
 
-[![Spotify](https://novatorem-<your-github-username>.vercel.app/api/spotify)](https://open.spotify.com/user/<your-spotify-username>)
+[![Spotify](https://novatorem-<your-github-username>.vercel.app/api/spotify)](https://open.spotify.com/user/31b4i2ljrtcsxgprrtyuhzrn6pxy)
 
 ## 🧠 GitHub Stats
 
